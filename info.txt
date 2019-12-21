@@ -1,0 +1,1 @@
+Send a wish by connecting to the wifi "xmas" and connect to http://xmas
